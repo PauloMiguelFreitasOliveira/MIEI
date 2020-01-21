@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.imgur.com/fHlqiSh.jpg" align="center" alt="MIEI">
+    <img src="https://i.imgur.com/GOGaHkq.jpg" align="center" alt="MIEI">
     <br>
     <br>
     <string><i>Mestrado Integrado Engenharia Informática</i></strong>
@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/discord/418433020719136768.svg?colorB=Blue&logo=discord&label=Discord&style=for-the-badge" alt="Discord">
     </a>
     <a href="https://drive.google.com/drive/folders/1tBpWJmF0gvXJuGDTxpHNRdjJGYIjbHZZ">
-        <img src="https://img.shields.io/badge/Reposit%C3%B3rio-MIEI-orange&logo=googledrive&style=for-the-badge" alt="Discord">
+        <img src="https://img.shields.io/badge/Reposit%C3%B3rio-MIEI-orange?style=for-the-badge" alt="RepoMIEI">
     </a>
     <a href="https://github.com/andreubita/MIEI/issues">
         <img src="https://img.shields.io/github/issues/andreubita/MIEI.svg?style=for-the-badge&colorB=37f149" alt="Issues">
