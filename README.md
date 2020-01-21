@@ -33,7 +33,7 @@ Caso queiram adicionar algum do vosso conteúdo, é favor de me contactar ou usa
 
 ---
 
-## Links úteis
+## Links úteis 🔗
 
 MIEI: https://miei.di.uminho.pt/
 
