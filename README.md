@@ -43,4 +43,8 @@ Reservar Gabinetes: https://reservas.sdum.uminho.pt/
 
 Campi: https://campi.uminho.pt/
 
+Blackboard: https://elearning.uminho.pt/
+
+Calendário MIEI: http://bit.ly/calendariomiei
+
 ---
