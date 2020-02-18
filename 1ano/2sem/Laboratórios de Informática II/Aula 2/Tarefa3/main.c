@@ -3,7 +3,8 @@
 
 void geraQuestao();
 
-int quit = 0;
+// Sair da aplicaçao
+__int8 quit = 0;
 
 // Mensagens para caso a resposta seja correta
 char rspCorreta[3][20] =
@@ -22,6 +23,7 @@ char rspErrada[3][30] =
         };
 
 int main() {
+    printf("Para sair do programa introduza -1\n");
     while(quit != -1){
         geraQuestao();
     }
