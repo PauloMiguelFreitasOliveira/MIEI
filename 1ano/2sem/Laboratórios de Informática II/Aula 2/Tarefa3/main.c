@@ -54,12 +54,12 @@ void geraQuestao(){
         }
 
         // Mensagem de resposta errada
-        printf("%s", rspErrada[rand() % sizeof(rspErrada)]);
+        printf(rspErrada[rand() % 3]);
         scanf("%d", &rsp);
     }
 
     // Mensagem de resposta correta
     if(rsp != -1){
-        printf("%s", rspCorreta[rand() % sizeof(rspCorreta)]);
+        printf(rspCorreta[rand() % 3]);
     }
 }
